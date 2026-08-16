@@ -1,6 +1,6 @@
 # Chronic Kidney Disease Prediction via Soft-Voting Ensemble Infrastructure
 
-This Repository Hosts an advanced machine learning framework designed to predict the risk of Chronic Kidney Disease (CKD) using multi-parametric clinical indicators. By combining heterogeneous classification networks through an ensemble layer, the system achieves robust generalization performance on clinical data characterized by structural target class imbalances.
+This Repository Hosts an Advanced machine learning framework designed to predict the risk of Chronic Kidney Disease (CKD) using multi-parametric clinical indicators. By combining heterogeneous classification networks through an ensemble layer, the system achieves robust generalization performance on clinical data characterized by structural target class imbalances.
 
 ## 📌 Project Overview & Pipeline Architectural Blueprint
 Medical screening infrastructure requires high statistical sensitivity to minimize clinical false-negative omissions. This project optimizes a complete data pipeline ranging from multivariate data cleaning to composite predictive Mapping.
