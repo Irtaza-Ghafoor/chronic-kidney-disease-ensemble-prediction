@@ -3,7 +3,7 @@
 This Repository Hosts an Advanced machine learning framework designed to predict the risk of Chronic Kidney Disease (CKD) using multi-parametric clinical indicators. By combining heterogeneous classification networks through an ensemble layer, the system achieves robust generalization performance on clinical data characterized by structural target class imbalances.
 
 ## 📌 Project Overview & Pipeline Architectural Blueprint
-Medical screening infrastructure requires high statistical sensitivity to minimize clinical false-negative omissions. This project optimizes a complete data pipeline ranging from multivariate data cleaning to composite predictive Mapping.
+Medical Screening infrastructure requires high statistical sensitivity to minimize clinical false-negative omissions. This project optimizes a complete data pipeline ranging from multivariate data cleaning to composite predictive Mapping.
 
 1. **Ingestion & Feature Inspection**: Loads demographic and clinical profiles (54 indicators across 1,659 unique cases).
 2. **Advanced Imputation Pipeline**: Deploys a Multivariate Imputation by Chained Equations (MICE) protocol via `IterativeImputer` to secure missing feature spaces dynamically without inducing statistical variance bias.
